@@ -1,0 +1,15 @@
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\bin\Debug\ListeBox.exe.config
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\bin\Debug\ListeBox.exe
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\bin\Debug\ListeBox.pdb
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.csprojAssemblyReference.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\MainWindow.g.cs
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\App.g.cs
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox_MarkupCompile.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox_MarkupCompile.lref
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\MainWindow.baml
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.g.resources
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.Properties.Resources.resources
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.csproj.GenerateResource.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.csproj.CoreCompileInputs.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.exe
+C:\Users\Matthdub\source\repos\ListeBox\ListeBox\obj\Debug\ListeBox.pdb

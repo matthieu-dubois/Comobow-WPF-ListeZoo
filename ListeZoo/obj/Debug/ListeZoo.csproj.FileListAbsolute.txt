@@ -1,0 +1,15 @@
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\MainWindow.g.cs
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\App.g.cs
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo_MarkupCompile.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo_MarkupCompile.lref
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\bin\Debug\ListeZoo.exe.config
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\bin\Debug\ListeZoo.exe
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\bin\Debug\ListeZoo.pdb
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\MainWindow.baml
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.g.resources
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.Properties.Resources.resources
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.csproj.GenerateResource.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.csproj.CoreCompileInputs.cache
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.exe
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.pdb
+C:\Users\Matthdub\source\repos\ListeBox\ListeZoo\obj\Debug\ListeZoo.csprojAssemblyReference.cache
